@@ -1,12 +1,13 @@
 """
-Let's start simple. Can you complete the function solveMeFirst to return the sum of two integers passed as input parameters? You can pick your favorite programming language.
+https://www.hackerrank.com/challenges/solve-me-first
 """
 
-def solveMeFirst(a,b):
-   return a+b
+
+def solveMeFirst(a, b):
+    return a+b
 
 
 num1 = input()
 num2 = input()
-res = solveMeFirst(num1,num2)
+res = solveMeFirst(num1, num2)
 print res
